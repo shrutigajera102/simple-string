@@ -1,0 +1,31 @@
+div{
+    background-color: rgb(23, 22, 22);
+    width: 55%;
+    height: 55vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 10px;
+    color: white;
+    border:5px solid aqua;
+}
+.bt{
+    width: 25%;
+    height: 5vh;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: aqua;
+}
+#value{
+    width: 200px;
+ height: 25px;
+ border-radius: 5px;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aqua;
+}
+body{
+    background-color: black;
+}
